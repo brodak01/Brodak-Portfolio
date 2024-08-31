@@ -5,31 +5,24 @@ Portfolio templates for setting up your Telling Stories with Data site.  Edit th
 Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
 - Web page URL: https://brodak01.github.io/Brodak-Portfolio/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- This repository: https://github.com/brodak01/Brodak-Portfolio
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+My name is Jonathan Brodak, and I use he/him pronouns. I am a native of Southwestern Pennsylvania, being born in the small town of Carmichaels and growing up in Washington, PA, which is a suburb of Pittsburgh. I graduated from Allegheny College with my Bachelor's in History with a minor in Biology, and I am currently a Master's student at Carnegie Mellon University studying Public Policy and Management.
+
+I live in the city of Pittsburgh and have recently adopted two kittens: Poppy and Haku! I've never cared for cats before, so it has been a new and exciting experience for me. Feel free to ask me for pictures of them!
+
+I have multiple hobbies that I try my best to balance. I enjoy jogging and hiking for exercise. You can often find me jogging through Schenley Park in the morning! I love baking bread, my favorite is the French Boule. I've been learning how to cultivate and bake Sourdough, but my first two attempts haven't been successful just yet! I love exploring new countries! So far, I've visited 14 countries in the world, my most recent being Japan in August 2024!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. I would like to learn what makes an effective chart. I tend to add details and fill in any white space I can find, which could lead to inferior charts. Knowing what is best practice would be great!
+2. I hope to learn which programs on the computer create the best graphics that I can work with. I know there are many visualization software out there, but I would like to find one that I am confident in and one where I am proud of the work I can produce.
+3. I would like my skills to be pertinent to this course and throughout the rest of my future career paths. I hope to work in economic development once I graduate from Heinz. I understand how important data is in our modern world, so I must feel confident in producing effective graphs to better position myself within this workforce. 
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
