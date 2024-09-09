@@ -1,14 +1,12 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Visualizing Debt](https://data-viewer.oecd.org?chartId=2d210203-d431-40b6-bac9-ee0f94384f6b) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Jonathan Brodak's Data Visualization Portfolio
 
 - Web page URL: https://brodak01.github.io/Brodak-Portfolio/
 - This repository: https://github.com/brodak01/Brodak-Portfolio
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+# Online Portfolio
+This is my public portfolio of data visualizations I created! I created these visualizations while I was enrolled in the course "Telling Stories with Data" at Carnegie Mellon University. I hope you enjoy my work! 
 
 # About me
 My name is Jonathan Brodak, and I use he/him pronouns. I am a native of Southwestern Pennsylvania, being born in the small town of Carmichaels and growing up in Washington, PA, which is a suburb of Pittsburgh. I graduated from Allegheny College with my Bachelor's in History with a minor in Biology, and I am currently a Master's student at Carnegie Mellon University studying Public Policy and Management.
@@ -22,13 +20,10 @@ I have multiple hobbies that I try my best to balance. I enjoy jogging and hikin
 2. I hope to learn which programs on the computer create the best graphics that I can work with. I know there are many visualization software out there, but I would like to find one that I am confident in and one where I am proud of the work I can produce.
 3. I would like my skills to be pertinent to this course and throughout the rest of my future career paths. I hope to work in economic development once I graduate from Heinz. I understand how important data is in our modern world, so I must feel confident in producing effective graphs to better position myself within this workforce. 
 
-# Portfolio
+# Portfolio Examples:
 
-## Assignment: [Visualizing Government Debt](<iframe src="https://data-viewer.oecd.org?chartId=224348bf-48b6-44c7-8269-3418ffe9b557" style="border: none"; allowfullscreen="true">;
-    <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=224348bf-48b6-44c7-8269-3418ffe9b557" target="_blank">Dataflow</a>
-  </iframe>;
-)
-For this assignment, I found a visualization of government debt, broken down by country, from the OECD's Data Website. make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+## Assignment: [Visualizing Government Debt](https://data-viewer.oecd.org?chartId=2d210203-d431-40b6-bac9-ee0f94384f6b)
+For this assignment, I found a visualization of government debt, broken down by country, from the OECD's Data Website. We can see that the data is organized from the lowest percentage of debt to GDP ratio on the left (Estonia, 25.52% of GDP) and rising to the highest percentage of debt to GDP ratio on the right (Japan, 242.89% of GDP). 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
