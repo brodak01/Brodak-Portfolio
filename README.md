@@ -23,9 +23,19 @@ I have multiple hobbies that I try my best to balance. I enjoy jogging and hikin
 # Portfolio Examples:
 
 ## Assignment: [Visualizing Government Debt](https://data-viewer.oecd.org?chartId=2d210203-d431-40b6-bac9-ee0f94384f6b)
-For this assignment, I found a visualization of government debt, broken down by country, from the OECD's Data Website. We can see that the data is organized from the lowest percentage of debt to GDP ratio on the left (Estonia, 25.52% of GDP) and rising to the highest percentage of debt to GDP ratio on the right (Japan, 242.89% of GDP). 
+For this assignment, I found a visualization of government debt, broken down by country, from the OECD's Data Website. We can see that the data is organized from the lowest percentage of debt to GDP ratio on the left (Estonia, 25.52% of GDP) and rising to the highest percentage of debt to GDP ratio on the right (Japan, 242.89% of GDP).
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+<div class='tableauPlaceholder' id='viz1725900575235' style='position: relative'><noscript><a href='#'><img alt='OECD Data Government Debt to GDP ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDGovernmentDebttoGDP&#47;OECDDataGovernmentDebttoGDP&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='OECDGovernmentDebttoGDP&#47;OECDDataGovernmentDebttoGDP' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDGovernmentDebttoGDP&#47;OECDDataGovernmentDebttoGDP&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1725900575235');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+## Assignment 3 & 4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
