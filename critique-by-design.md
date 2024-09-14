@@ -1,17 +1,18 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Critique by Design
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+## Step One: The Visualization
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+Which animals could _you_ beat in a fight? 
 
-## Step one: the visualization
+This Data Visualization asked 1,224 US adults which animals they believed they could defeat in a one-on-one fight:
+![What animals could you beat in a fight?](RumbleInJungle.png)
+This study was conducted by [YouGov](https://today.yougov.com/), an organization that collects public opinions and presents them through data charts or visualizations. If you would like to read the original article for this data visualization, click on this [link](https://today.yougov.com/society/articles/35852-lions-and-tigers-and-bears-what-animal-would-win-f)! 
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+I selected this visualization because I think the subject matter is interesting, and that it's also a little funny. It's hard for me to believe that 8% of women and 9% of men believe that they could beat an elephant _unarmed_. I love animals, and despite my picking on the data, I would be lying if I said I didn't have these same thoughts. I also have a few ideas on how this graphic can be improved, but I will lay out those details in the next section.
 
-## Step two: the critique
+## Step two: The Critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 ## Step three: Sketch a solution
