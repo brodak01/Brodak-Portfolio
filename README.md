@@ -1,4 +1,4 @@
-| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Visualizing Debt](https://data-viewer.oecd.org?chartId=2d210203-d431-40b6-bac9-ee0f94384f6b) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Visualizing Debt](https://data-viewer.oecd.org?chartId=2d210203-d431-40b6-bac9-ee0f94384f6b) | [Critique by Design](critique-by-design.md) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # Jonathan Brodak's Data Visualization Portfolio
 
@@ -51,8 +51,8 @@ I also edited this dataset to create this Treemap of the data from 2018:
 
 The first visualization is a standard bar graph, which works well, but the data could be represented to tell a better story. The second visualization, the heatmap, shows all of the OECD's data from 2007 to 2019. This data gives the whole picture and, with the color gradient, allows us to easily see trends in the data. I chose this Treemap from the 2018 data. I wanted to highlight specifically one year of data so that we could see how the debt-to-GDP percentages compare to one another. The reds highlight a higher debt to GDP, while the blues highlight a lower debt to GDP. I also edited the nation Aliases so that someone who does not know the OECD country codes could still read the graphic.
 
-## Assignment 3 & 4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+## Assignment 3 & 4: [Critique by Design](critique-by-design.md)
+This assignment is listed under the "Critique by Design" link due to the length of the article. Click on the link above to view!  
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
