@@ -45,32 +45,47 @@ I think that this graphic excels with engagement. Anyone can imagine themselves 
 
 ## Step three: Sketch a solution
 
+Here was my first attempt at sketching a new visualization:
+![First sketch](cbdSketch.jpg)
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+For my interviews, I asked the following questions: 
 
-Questions to ask (modify these for your own interviews): 
+- _Q1:_ Can you tell me what you think this is?
 
-- Can you tell me what you think this is?
+- _Q2:_ What was the first thing that caught your eye?
 
-- Can you describe to me what this is telling you?
+- _Q3:_ How easy was it to understand what this graph was about?
 
-- Is there anything you find surprising or confusing?
+- _Q4:_ How would you improve this graph to make it easier to read?
 
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+- _Q5:_ Who would the intended audience be for this chart?
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+**Interview 1**
+
+  - _Q1:_ This is a graph talking about which animals women and men think they could beat in a fight.
+  
+  - _Q2:_ The first thing I noticed was the bright colors.
+  
+  - _Q3:_ It was easy to read, minus your bad handwriting. (ouch)
+  
+  - _Q4:_ I would make the two graphs for men and women beside each other. Since the differences aren't particularly drastic, it would be better to have them side by side.
+
+  - _Q5:_ This graph is meant for anyone, no particular audience.
+
+**Interview 2**
+
+  - _Q1:_ .
+  
+  - _Q2:_ .
+  
+  - _Q3:_ .
+  
+  - _Q4:_ .
+
+  - _Q5:_ .
 
 Synthesis: 
 
