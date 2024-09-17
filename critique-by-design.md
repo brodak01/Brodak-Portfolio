@@ -77,19 +77,19 @@ For my interviews, I asked the following questions:
 
 **Interview 2**
 
-  - _Q1:_ .
+  - _Q1:_ Survey results about what animals people think they could defend themselves against unarmed.
   
-  - _Q2:_ .
+  - _Q2:_ The animal list and the fact that men felt more confident than the women in their abilities to overcome the animals.
   
-  - _Q3:_ .
+  - _Q3:_ I think it was pretty easy to understand, albeit I have some questions that I would like to know.
   
-  - _Q4:_ .
+  - _Q4:_ Some thoughts: 1) I would use a photo of the animals for quicker impact, or even a Human vs. ______ in a boxing ring (great visual), and 2) a little more info regarding the demographic and number of people surveyed and 3) emphasize “unarmed.”
 
-  - _Q5:_ .
+  - _Q5:_ I would think this is one of those fun studies for all people to analyze or to think about what your own answers would be – like pop culture group discussion stuff. There is likely an interest from psychologists as to people’s confidence or their own perception of their physical prowess. Maybe another interesting thought here is what percent DOESN’T think they can win the fight (~30% of people don’t think they could beat a rat or house cat)! And the men are truly underestimating the Cobra and Chimp, in my opinion, LOL.
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+From the feedback I received, I think I should make the unarmed aspect even more prominent. I could add diagrams of the animals to add another visual, though I wonder if that would add too much clutter. I think I will test this in Tableau and decide if it's too much. I can add the men and women diagrams side by side instead of on two opposing sides.
 
 ## Step five: build the solution
 
