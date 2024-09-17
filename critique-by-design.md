@@ -93,5 +93,11 @@ From the feedback I received, I think I should make the unarmed aspect even more
 
 ## Step five: build the solution
 
+With my interviews finished, I set out into Tableau to try and build a visualization that met what the interviewees told me. What mostly stuck out to me was designing the graphic with the men and women side by side. This is how it went:
+
+![First Attempt in Tableau](FirstTableau.png)
+
+I don't like it. I think the colors and bars just mash together and make it feel like a mess. After speaking with my data visualization critique group, they shared my sentiments. I decided that I should try to create the visualization to be more similar to my sketch and to drop the side-by-side idea.
+
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
