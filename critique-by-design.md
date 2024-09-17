@@ -83,7 +83,7 @@ For my interviews, I asked the following questions:
   
   - _Q3:_ I think it was pretty easy to understand, albeit I have some questions that I would like to know.
   
-  - _Q4:_ Some thoughts: 1) I would use a photo of the animals for quicker impact, or even a Human vs. ______ in a boxing ring (great visual), and 2) a little more info regarding the demographic and number of people surveyed and 3) emphasize “unarmed.”
+  - _Q4:_ Some thoughts: 1) I would use a photo of the animals for quicker impact, or even a Human vs. ______ in a boxing ring, and 2) a little more info regarding the demographic and number of people surveyed and 3) emphasize “unarmed.”
 
   - _Q5:_ I would think this is one of those fun studies for all people to analyze or to think about what your own answers would be – like pop culture group discussion stuff. There is likely an interest from psychologists as to people’s confidence or their own perception of their physical prowess. Maybe another interesting thought here is what percent DOESN’T think they can win the fight (~30% of people don’t think they could beat a rat or house cat)! And the men are truly underestimating the Cobra and Chimp, in my opinion, LOL.
 
