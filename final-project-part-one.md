@@ -60,5 +60,29 @@ Finally, I would like to create a visualization that shows how many research pap
 | Market size of the zoo and aquarium sector in the United States from 2010 to 2022 | [Webpage Link](https://www.statista.com/statistics/1176774/zoo-and-aquarium-industry-market-size-us/) | Chart from Statista showing Zoo and Aquarium Market Size between 2010 through 2022, size has mainly remained the same |
 | A system wide approach to managing zoo collections for visitor attendance and in situ conservation | [Webpage Link](https://www.nature.com/articles/s41467-020-14303-2) | How zoo attendance is used to contribute to conservation projects |
 
+**[International Zoo Statistics](ZooStats.csv)** - This excel document has data such as endangered species, zoo sale tickets, number of species, total mammals, which I could possibly use to show how a greater number of species increases zoo attendance.
+
+**[Evaluating the Contribution of North American Zoos and Aquariums to Endangered Species Recovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6023936/)** - This webpage breaks down what a zoo's conservation research budget is used for. I want to use this document to show how your conservation donations could be used to help species rehabilitation.
+
+**[Pittsburgh Zoo's 2021 Annual Report](https://www.pittsburghzoo.org/wp-content/uploads/2024/06/22_AnnualReport_8.1mb.pdf)/)** - This is an annual report from the Pittsburgh Zoo. In this document, zoo attendance and how zoo profits are used in the zoo are discussed. I may use this data to show a local example of what a local zoo is doing in conservation work.
+
+**[The Pittsburgh Zoo & Aquarium boasts 8,000 animals on 77 acres. A growing chorus asks: Why do we have zoos?](https://www.publicsource.org/pittsburgh-zoo-aquarium-animal-captivity-conservation-rescue/)** - Just like above, I want to use this source as a way to show the pros and cons of modern zoos with a more local perspective.
+
+**[Why Zoos are Good](https://www.theguardian.com/science/lost-worlds/2014/aug/19/why-zoos-are-good)** - Unlike other sources that focus on the negatives of modern zoos, this source looks to the conservation and research work being done by zoos. I found this source to be useful as a contrasting argument to more negative source.
+
+**[Do zoos help or hurt animals?](https://www.vox.com/future-perfect/23914885/zoo-animals-conservation-endangered-threatened-species-sanctuaries)** - While the previous sources have been mostly positive, Vox is very critical of the role of modern zoos, reporting that Zoos are here for our entertainment more than conservation. I think this is the crux of the cons argument, and I want to represent that side of the story with this source authentically.
+
+**[Interesting Zoo and Aquarium Statistics](https://www.aza.org/connect-stories/stories/interesting-zoo-aquarium-statistics)** - This is from the AZA's official website where they list statistics of their members. I am intending to use their conservation numbers in my presentation to show how much AZA organizations donate to conservation programs.
+
+**[Enclosure Size in Captive Wild Mammals](https://animal-protection-consult.com/enclosures.pdf)** - This is a very important source for my presentation. This source delves into how much space captive mammals have in captivity, and we find that current zoo habitats are 100x smaller than their natural range. This is an incredibly important statistic to demonstrate how zoo animals are kept in small, confine spaces.
+
+**[Guiding the prioritization of the most endangered and evolutionary distinct birds for new zoo conservation programs](https://onlinelibrary.wiley.com/doi/10.1002/zoo.21482)** - This source breaks down which birds receive the most conservation and research from zoos. What this study finds is that the more unique and "interesting" the species is recognized, the more conservation and research they receive. This is an important aspect of the story that the charismatic animals receive the most help.
+
+**[Global trends in research output by zoos and aquariums](https://onlinelibrary.wiley.com/doi/10.1002/zoo.21482)** - This source finds that zoos have published more and more research papers since the 2000s, providing data on these research trends. I intend to use this source to show how zoos have become more committed to learning about these species and disseminating that knowledge throughout the scientific community.
+
+**[Market size of the zoo and aquarium sector in the United States from 2010 to 2022](https://www.statista.com/statistics/1176774/zoo-and-aquarium-industry-market-size-us/)** - I'm not sure if I'm going to use this source yet, but I included it anyway. This source finds trends in zoo attendance over the past 12 years. What we find is that zoo attendance has remained relatively stable, although there was a dip in 2020 due to the COVID-19 pandemic.
+
+**[A system wide approach to managing zoo collections for visitor attendance and in situ conservation](https://www.nature.com/articles/s41467-020-14303-2)** - This study not only focuses on strategies employed by zoos to bring in more attendance but also how this money is split up. This is similar to the Pittsburgh annual report where profit is broken down into how this money supports the zoos' mission, but this is a study on a national scale.
+
 # Method and medium
 I plan on completing more research as I don't have all of my data just yet. My first step is to locate more databases so that I can get more reliable data on some of my numbers. I also want to use Tableau to create my visualizations and then upload those to Shorthand to present my story.
