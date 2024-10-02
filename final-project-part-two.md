@@ -71,7 +71,10 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-Text here!
+More sources:
+[Auckland Zoo Elephant House size](https://www.aucklandzoo.co.nz/experiences/events-at-the-old-elephant-house)
+[AZA Modern Elephant Keeping](https://assets.speakcdn.com/assets/2332/aza_standards_for_elephant_management_and_care.pdf)
+[Elephant Natural Range](https://wildlifesos.org/elephant/elephant-migration-the-journey-of-gentle-giants/)
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
