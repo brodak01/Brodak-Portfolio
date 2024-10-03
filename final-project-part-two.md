@@ -68,11 +68,11 @@ Text here!
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Overall, were you able to understand what each graphic was saying, or were the graphics confusing? | 1            |     2        |       3      |
-| What would you change about the graphics to make them better to understand or look better?                        |             1                   |      2       |        3     |
-|   What do you think of the message that these graphics are trying to tell?                    |             1                   |      2       |        3     |
-|   Is there a specific audience that would be interested in these graphics?                     |             1                   |      2       |        3     |
-|    Are there any aspects that you are curious about that were not addressed in this draft?                     |             1                   |      2       |        3     |
+| Overall, were you able to understand what each graphic was saying, or were the graphics confusing? | The first graphic was difficult to understand, the rest were much easier to understand.            |     2        |       3      |
+| What would you change about the graphics to make them better to understand or look better?                        |             The first graphic could be designed as overlapping so that the two different enclosure sizes are easier to understand. The font size should be increased and font color should be darkened. A scale should be added to the map.                   |      2       |        3     |
+|   What do you think of the message that these graphics are trying to tell?                    |             The interviewee understood the message from each of the graphics.                   |      2       |        3     |
+|   Is there a specific audience that would be interested in these graphics?                     |             Conservationists                   |      2       |        3     |
+|    Are there any aspects that you are curious about that were not addressed in this draft?                     |             They were interested in how captive animal lifespans changed throughout time. Has the research done at zoos resulted in captive animals living longer over time?                   |      2       |        3     |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
