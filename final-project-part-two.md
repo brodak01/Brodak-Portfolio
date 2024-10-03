@@ -64,27 +64,29 @@ From their responses, I'm hoping to learn what worked, what needs to improve, wh
 
 ## Interview findings
 
-Text here!
+After creating my questions, I set out to find three interviewees, and here were my results:
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Overall, were you able to understand what each graphic was saying, or were the graphics confusing? | The first graphic was difficult to understand, the rest were much easier to understand.            |     I was not sure what the colors meant in the US visual - which states had AZA zoos? Assume dark green, but unsure.        |       3      |
-| What would you change about the graphics to make them better to understand or look better?                        |             The first graphic could be designed as overlapping so that the two different enclosure sizes are easier to understand. The font size should be increased and font color should be darkened. A scale should be added to the map.                   |      A legend for the first graphic.       |        3     |
-|   What do you think of the message that these graphics are trying to tell?                    |             The interviewee understood the message from each of the graphics.                   |      How much funding various sttaes have to dedicste to oos - and whether or not their vertification goes hand in hand with funding.       |        3     |
+| What would you change about the graphics to make them better to understand or look better?                        |             The first graphic could be designed as overlapping so that the two different enclosure sizes are easier to understand. The font size should be increased and the font color should be darkened. A scale should be added to the map.                   |      A legend for the first graphic.       |        3     |
+|   What do you think of the message that these graphics are trying to tell?                    |             The interviewee understood the message from each of the graphics.                   |      How much funding various states have to dedicate to zoos - and whether or not their verification goes hand in hand with funding.       |        3     |
 |   Is there a specific audience that would be interested in these graphics?                     |             Conservationists                   |      Animals lovers and anyone interested in zoo business.       |        3     |
 |    Are there any aspects that you are curious about that were not addressed in this draft?                     |             They were interested in how captive animal lifespans changed throughout time. Has the research done at zoos resulted in captive animals living longer over time?                   |      What does AZA certified mean? Does more funding mean better care for the animals?       |        3     |
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+After a successful interview process, I took notes of the changes I think are feasible:
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| The fonts need to be altered. | Some of the fonts are difficult to read at a distance, and the most important information (such as the program names) are hard to read. This should be an easy fix, increase the title and axes sizes and change their color from light gray to dark gray or black. |
+|               A legend for the map.                           |                                     The interviewees agreed that the map would be easier to understand with a legend. I need to make it clearer that darker areas have more zoos. This should be an easy fix as adding a legend is as simple as a button click!                                            |
+|              Captive Animals Lifespans                            |                               Try to find how captive animal lifespans have increased over time. If this is difficult to find, it may not be added, but I think it will be important to add.                                                 |
+|              Does more funding mean better animal care?                            |                      Maybe I could find that zoos that have more funding have animals live longer lives? I think this could be difficult to find, but it is worth a shot!                                                           |
+|      Update the language in the Research Impact.       |                     Better define research output and research impact. This could be a caption at the bottom of the graphic.                                                            |
+|     Overlap the habitat maps        |                                If the two habitat squares were overlapping, I think the data would be much easier to understand. If I can figure out how to do this, the visualization will be a lot easier to understand!                                                 |
+|             |                                                                                 |
+|             |                                                                                 |
 
-> ...include any final thoughts you have here. 
+I will try to make as many changes as I can, the interviews increased my confidence in my visualizations! I was afraid my message was getting lost, but it makes me glad to know that the message is coming through, meaning the story can be understood!
