@@ -5,6 +5,7 @@
 Below are the links to my final data story shorthand. Note, there have been some bugs with my graphics not fully loading in the final published URL, so I am including the editor as well, which always includes the loaded graphics.
 
 > [Final Shorthand Presentation](https://carnegiemellon.shorthandstories.com/supporting-the-right-zoos/index.html)
+
 > [Editor URL if Graphics are not loading correctly](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/pL82KCt2hz)
 
 # Changes made since Part II
