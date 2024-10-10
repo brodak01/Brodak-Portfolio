@@ -1,4 +1,4 @@
-| [Home Page](README.md) | [Visualizing Debt](https://data-viewer.oecd.org?chartId=2d210203-d431-40b6-bac9-ee0f94384f6b) | [Critique by Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
+| [home page](README.md) | [visualizing debt](https://data-viewer.oecd.org?chartId=2d210203-d431-40b6-bac9-ee0f94384f6b) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Jonathan Brodak's Data Visualization Portfolio
 
